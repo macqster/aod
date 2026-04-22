@@ -13,6 +13,11 @@
     </p>
 </p>
 
+## Repository Status
+
+This checkout is maintained as an independent repository under `macqster/archive.org-downloader`.
+It is no longer treated as a fork of the original upstream project.
+
 
 ## About The Project
 
