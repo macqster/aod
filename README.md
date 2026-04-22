@@ -20,6 +20,7 @@ It is no longer treated as a fork of the original upstream project.
 
 Repository rename log:
 - `2026-04-22`: GitHub repository renamed from `macqster/archive.org-downloader` to `macqster/aod`
+- Canonical log: [docs/repo-rename.md](docs/repo-rename.md)
 
 
 ## About The Project
