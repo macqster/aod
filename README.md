@@ -15,8 +15,11 @@
 
 ## Repository Status
 
-This checkout is maintained as an independent repository under `macqster/archive.org-downloader`.
+This checkout is maintained as an independent repository under `macqster/aod`.
 It is no longer treated as a fork of the original upstream project.
+
+Repository rename log:
+- `2026-04-22`: GitHub repository renamed from `macqster/archive.org-downloader` to `macqster/aod`
 
 
 ## About The Project
