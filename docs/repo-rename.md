@@ -6,4 +6,4 @@ This file records the repository identity changes so the history stays explicit.
 
 - Created as `macqster/archive.org-downloader`
 - Renamed to `macqster/aod`
-- Local checkout renamed to `/Users/maciejkuster/_git/aod`
+- Local checkout renamed to `/Users/mcq/_git/aod`

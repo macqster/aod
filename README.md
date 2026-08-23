@@ -36,8 +36,8 @@ To get started you need to have python3 installed. If it is not the case you can
 ### Installation
 Make sure you've already git installed. Then you can run the following commands to get the scripts on your computer:
    ```sh
-   git clone https://github.com/MiniGlome/Archive.org-Downloader.git
-   cd Archive.org-Downloader
+   git clone https://github.com/macqster/aod.git
+   cd aod
    ```
 The script requires the modules `requests`, `tqdm` and `img2pdf`, you can install them all at once with this command:
 ```sh
